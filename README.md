@@ -1,2 +1,3 @@
-# TIC1project
-TIC1_project
+## TIC1 PROJECT
+# Michael Jurek, Adam Varga, Michal Ljikar
+
